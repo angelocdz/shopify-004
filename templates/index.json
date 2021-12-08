@@ -2,6 +2,17 @@
   "sections": {
     "1638956377c85d4fdd": {
       "type": "hero",
+      "blocks": {
+        "f2ba0795-3b6f-46ac-bd85-f73d4ec5135c": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "f2ba0795-3b6f-46ac-bd85-f73d4ec5135c"
+      ],
       "settings": {
       }
     }
