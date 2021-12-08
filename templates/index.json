@@ -1,20 +1,12 @@
 {
   "sections": {
-    "multi_column": {
-      "type": "multicolumn",
+    "1638956377c85d4fdd": {
+      "type": "hero",
       "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
       }
     }
   },
   "order": [
-    "multi_column"
+    "1638956377c85d4fdd"
   ]
 }
